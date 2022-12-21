@@ -129,7 +129,6 @@ components:
   languages:
     - languages/languages-descriptor.yaml
   plugins:
-    - plugins/pn-3c07adf0-fac54a9f-entando-app-builder-menu-bff-descriptor.yaml
     - plugins/pn-3a0eefc4-13d51bef-entando-simple-ms-descriptor.yaml
     - plugins/pn-c0e268b3-806e608b-entando-my-service-descriptor.yaml
     - plugins/pn-c0e268b3-9f21bf63-entando-another-ms-descriptor.yaml
