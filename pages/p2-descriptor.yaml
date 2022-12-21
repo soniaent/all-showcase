@@ -1,0 +1,30 @@
+code: p2
+parentCode: homepage
+titles:
+  en: p2
+  it: p2
+pageModel: 1-2-column
+ownerGroup: free
+joinGroups: []
+displayedInMenu: true
+seo: false
+charset: utf-8
+status: published
+widgets:
+  - code: logo
+    config: null
+    pos: 0
+  - code: navigation-menu
+    config: null
+    pos: 1
+  - code: search_form
+    config: null
+    pos: 2
+  - code: keycloak-login
+    config: null
+    pos: 3
+  - code: another-mfe-c0e268b3
+    config:
+      description: test descr
+      username: test
+    pos: 4
